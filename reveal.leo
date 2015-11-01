@@ -37,6 +37,8 @@
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151101141923.1"><vh>@edit 2015cphww4.md</vh></v>
+<v t="leo.20151101141925.1"><vh>@edit 2015cphww5.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -264,7 +266,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3" a="E"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4" a="E"><vh>body 標註</vh>
@@ -282,7 +284,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -294,6 +296,36 @@
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151101142002.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151101142002.2"><vh>檔案說明</vh></v>
+<v t="leo.20151101142002.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151101142002.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151101142002.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151101142002.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151101142002.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151101142002.8"><vh>作業任務一</vh></v>
+<v t="leo.20151101142002.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151101142002.10"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151101142005.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151101142005.2"><vh>檔案說明</vh></v>
+<v t="leo.20151101142005.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151101142005.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151101142005.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151101142005.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151101142005.7"><vh>有關我的作業</vh></v>
+<v t="leo.20151101142005.8"><vh>作業任務一</vh></v>
+<v t="leo.20151101142005.9"><vh>第3張投影片</vh></v>
+</v>
+</v>
+<v t="leo.20151101142005.10"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -2295,6 +2327,173 @@ Diff...
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
+</t>
+<t tx="leo.20151101142002.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151101142002.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151101142002.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151101142002.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151101142002.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151101142002.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151101142002.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151101142002.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323213吳宇堂&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151101142002.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;上課筆記&lt;/h1&gt;
+    &lt;p&gt;1. git clone 網址 ( Github個人帳號網址)
+
+2. cd 資料夾名稱 ( cd - 進入資料夾)
+
+3. git config user.name "名字"
+git config user.name 信箱
+有--global表示之後都默認
+
+4. git add 檔名 (檔案在近端展開)
+
+5. git commit -m "檔案註解"&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151101142002.9">&lt;section&gt;
+    &lt;h1&gt;心得及自評分數&lt;/h1&gt;
+    &lt;p&gt;覺得這個軟體不是中文就非常難用...
+    要花很多時間才能搞懂它，一開始一直找不到退出草圖的辦法，後來終於找到了，原來才叫建一個平面才能引申。
+    自評分數:85&lt;/p&gt;
+   
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151101142005.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151101142005.10">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151101142005.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151101142005.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151101142005.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151101142005.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151101142005.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151101142005.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;四設計二乙&lt;/h1&gt;
+    &lt;p&gt;40323213吳宇堂&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151101142005.8">&lt;section id="hw-task-one"&gt;
+    &lt;h1&gt;上課筆記&lt;/h1&gt;
+    &lt;p&gt;1. git clone 網址 ( Github個人帳號網址)
+
+2. cd 資料夾名稱 ( cd - 進入資料夾)
+
+3. git config user.name "名字"
+git config user.name 信箱
+有--global表示之後都默認
+
+4. git add 檔名 (檔案在近端展開)
+
+5. git commit -m "檔案註解"&lt;/p&gt;
+    
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20151101142005.9">&lt;section&gt;
+    &lt;h1&gt;心得及自評分數&lt;/h1&gt;
+    &lt;p&gt;這次的程式是中文就覺得好用許多，而且跟我之前學的軟體很像所以用起來蠻順手的，但是組合的時候會一直約束不了，花了很多時間，但後來也解決了。
+    自評分數:85&lt;/p&gt;
+   
+&lt;/section&gt;
+				
 </t>
 </tnodes>
 </leo_file>
