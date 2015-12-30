@@ -362,7 +362,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230155805.1" a="E"><vh>@button open html</vh>
+<v t="leo.20151230155805.1"><vh>@button open html</vh>
 <v t="leo.20151230155805.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
 <v t="leo.20151230155805.3"><vh>檔案說明</vh></v>
 <v t="leo.20151230155805.4" a="E"><vh>html 標註</vh>
@@ -2716,10 +2716,11 @@ for ch in p.children():
 &lt;section&gt;
     &lt;h1&gt;操作步驟說明1&lt;/h1&gt;
     &lt;ol&gt;
-    &lt;li&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;/li&gt;    
-    &lt;li&gt;&lt;/li&gt;
+    &lt;li&gt;1.下載 fix壓縮檔&lt;/li&gt;
+    &lt;li&gt;2.下載leo壓縮檔，並放置於fix資料夾內&lt;/li&gt;
+    &lt;li&gt;3. 新增fix路徑 copy leo-editor-broke-abbrev.zip "C:\Ana3_2015\data\" 路徑依自己的檔案修改&lt;/li&gt;    
+    &lt;li&gt;4. 修改start.bat內pip install leo-editor-broke-abbrev.zip&lt;/li&gt;
+    &lt;li&gt;5. 啟動fix ，將相對應得檔案複製到指定位置即可&lt;li&gt;
     &lt;/ol&gt;		
     &lt;/section&gt;
     
@@ -2729,7 +2730,7 @@ for ch in p.children():
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習B 學號: 40323213"; }&lt;/style&gt;</t>
 <t tx="leo.20151230155805.12">
 &lt;!-- 以下為投影片 --&gt;
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
@@ -2739,10 +2740,9 @@ content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</
 &lt;section&gt;
     &lt;h1&gt;操作步驟說明2&lt;/h1&gt;
     &lt;ol&gt;
-    &lt;li&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;/li&gt;
+    &lt;li&gt;1. 使用creo繪製零件並組立(影片)&lt;/li&gt;
+    &lt;li&gt;2. 圖檔上傳github並附上載點，在小組網站顯示，以及轉檔成.stl並顯示在網誌內(影片)&lt;/li&gt;
+    &lt;li&gt;3. 使用onshape繪製零件並組立，及輸出零件圖等(影片)&lt;/li&gt;
     &lt;/ol&gt;		
     &lt;/section&gt;
     
@@ -2751,8 +2751,8 @@ content: "課程: 電腦輔助設計實習B 學號: 40323203"; }&lt;/style&gt;</
 <t tx="leo.20151230155805.14">&lt;&lt; header &gt;&gt;
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
-    &lt;p&gt;自評分數:&lt;/p&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;自評分數:70&lt;/p&gt;
+    &lt;p&gt;畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了。&lt;/p&gt;
         
 &lt;/section&gt;
 				
