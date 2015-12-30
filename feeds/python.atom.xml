@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-11-01T11:41:00+08:00</updated><entry><title>2015 計算機程式 作業二</title><link href="http://example.com/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-11-01:2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://example.com/" rel="alternate"></link><link href="http://example.com/feeds/python.atom.xml" rel="self"></link><id>http://example.com/</id><updated>2015-12-30T10:25:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業六</title><link href="http://example.com/2015cadpb_blog_w11.html" rel="alternate"></link><updated>2015-12-30T10:25:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-12-30:2015cadpb_blog_w11.html</id><summary type="html">&lt;p&gt;以下為相關工作報告資料&lt;/p&gt;
+&lt;p&gt;包括簡報檔, vimeo 影片, copy.com 零件檔案與其他相關資料連結&lt;/p&gt;
+&lt;iframe src="cadp_w11_lecture.html" width="700" height="500"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="cadp_w11_lecture.html" target="_blank"&gt;作業六投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="mechanism"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://example.com/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-11-01:2015cp_hw_w4.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -12,18 +16,18 @@
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業三投影片&lt;/a&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/144257466" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/144257466"&gt;123456&lt;/a&gt; from &lt;a href="https://vimeo.com/user45394731"&gt;nash&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業三</title><link href="http://example.com/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-11-01:2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/144257466"&gt;123456&lt;/a&gt; from &lt;a href="https://vimeo.com/user45394731"&gt;nash&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業四</title><link href="http://example.com/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-11-01T11:41:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-11-01:2015cp_hw_w6.html</id><summary type="html">&lt;p&gt;以下為作業四內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;作業四投影片&lt;/a&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/145042399" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/145042399"&gt;作業四錄影&lt;/a&gt; from &lt;a href="https://vimeo.com/user45625718"&gt;zxc&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業一</title><link href="http://example.com/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 期中作業</title><link href="http://example.com/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為期中作業內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 期中作業</title><link href="http://example.com/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40323213</name></author><id>tag:example.com,2015-09-19:2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;以下為期中作業內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
