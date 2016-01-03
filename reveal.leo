@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -363,7 +363,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151230155805.1"><vh>@button open html</vh>
+<v t="leo.20151230155805.1" a="E"><vh>@button open html</vh>
 <v t="leo.20151230155805.2" a="E"><vh>@clean cadp_w11_lecture.html</vh>
 <v t="leo.20151230155805.3"><vh>檔案說明</vh></v>
 <v t="leo.20151230155805.4" a="E"><vh>html 標註</vh>
@@ -2776,7 +2776,7 @@ content: "課程: 電腦輔助設計實習B 學號: 40323213"; }&lt;/style&gt;</
 
     &lt;h1&gt;自評與心得&lt;/h1&gt;
     &lt;p&gt;自評分數:70&lt;/p&gt;
-    &lt;p&gt;畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了。&lt;/p&gt;
+    &lt;p&gt;畫零件時有很多挫折，推的時候不知道要按button pelican content所以搞了非常久，後來在同學的指教下終於用好了，我組合的時候之地遇到蠻多困難的，後來才發現他的用法跟其他繪圖軟體不一樣，組合的方法也不一樣，所以花了點時間。&lt;/p&gt;
         
 &lt;/section&gt;
 				
