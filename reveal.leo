@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1"><vh>@settings</vh>
+<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1" a="E"><vh>專案說明</vh>
@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -437,7 +437,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103165347.1" a="E"><vh>@button open html-3</vh>
+<v t="leo.20160103165347.1"><vh>@button open html-3</vh>
 <v t="leo.20160103165347.2" a="E"><vh>@clean cadp_w15_lecture.html</vh>
 <v t="leo.20160103165347.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103165347.4" a="E"><vh>html 標註</vh>
@@ -653,7 +653,7 @@
 </v>
 </v>
 <v t="leo.20151021143626.1"><vh>Recovered Nodes</vh>
-<v t="leo.20151021143626.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
+<v t="leo.20151021143626.2" a="E"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t="leo.20151021143626.3"><vh>old:html 標註</vh></v>
 <v t="leo.20151021143626.4"><vh>new:html 標註</vh></v>
 </v>
