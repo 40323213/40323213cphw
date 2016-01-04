@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('個人倉儲網頁', 'http://nashnash.github.io/40323213cphw/'),('班級倉儲網頁', 'http://2015fallhw.github.io/2015fallcadpb/category/g9.html')('班級個人網頁',http://2015fallhw.github.io/2015fallcadpb/user/40323213/))
+         ('Python', 'http://python.org/'),('個人倉儲網頁', 'http://nashnash.github.io/40323213cphw/'),('班級組別網頁', 'http://2015fallhw.github.io/2015fallcadpb/category/g9.html')('班級個人網頁',http://2015fallhw.github.io/2015fallcadpb/user/40323213/))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
