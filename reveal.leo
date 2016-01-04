@@ -437,8 +437,8 @@
 </v>
 </v>
 </v>
-<v t="leo.20160103165347.1"><vh>@button open html-3</vh>
-<v t="leo.20160103165347.2"><vh>@clean cadp_w15_lecture.html</vh>
+<v t="leo.20160103165347.1" a="E"><vh>@button open html-3</vh>
+<v t="leo.20160103165347.2" a="E"><vh>@clean cadp_w15_lecture.html</vh>
 <v t="leo.20160103165347.3"><vh>檔案說明</vh></v>
 <v t="leo.20160103165347.4" a="E"><vh>html 標註</vh>
 <v t="leo.20160103165347.5" a="E"><vh>body 標註</vh>
@@ -2989,7 +2989,7 @@ cadp w12 講課內容投影片
 
     &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;期末報告&lt;/h1&gt;
+    &lt;h1&gt;w15上課內容&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;/section&gt;
     
